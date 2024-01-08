@@ -41,7 +41,7 @@ INSERT INTO 'nome da tabela' ('atributo 1', 'atributo 2' ...) VALUES ('valor do 
 ### Comandos para Manipulação de Atributos em uma Tabela
 #### Adicionar Atributo
 ~~~sql
-ALTER TABLE 'nome da tabela' ADD COLUMN 'nome do atributo' TYPE 'tipo';
+ALTER TABLE 'nome da tabela' ADD COLUMN 'nome do atributo' 'tipo';
 
 ~~~
 
