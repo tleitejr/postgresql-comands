@@ -1,4 +1,4 @@
-# Comandos para usar o PostgreSQL no Terminal/Prompt de Comando
+# Comandos para usar o PostgreSQL no Terminal/Prompt de Comando ![Logo PostgreSQL](https://th.bing.com/th?id=ODLS.87970c9f-48f7-471f-84c4-39d53d664e49&w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2)
 ### Iniciar
 #### Windows
 1. Abra o Prompt de Comando;
