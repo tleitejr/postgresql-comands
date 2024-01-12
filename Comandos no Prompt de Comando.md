@@ -60,3 +60,8 @@ psql -U "seu usuario" -d "seu banco de dados" -h "seu servidor" -p "sua porta"
 ~~~bash
 \! clear
 ~~~
+---
+### Mostrar todos os atributos o tipo delas de uma tabela
+~~~bash
+\d 'nome da tabela'
+~~~
